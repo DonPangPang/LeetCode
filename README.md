@@ -1,1 +1,1 @@
-# LintCode Programs
+# LeetCode Programs
