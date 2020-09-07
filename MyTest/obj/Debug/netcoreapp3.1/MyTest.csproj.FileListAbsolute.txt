@@ -1,0 +1,13 @@
+F:\LE-WORKSPACE-LeetCode\MyTest\bin\Debug\netcoreapp3.1\MyTest.exe
+F:\LE-WORKSPACE-LeetCode\MyTest\bin\Debug\netcoreapp3.1\MyTest.deps.json
+F:\LE-WORKSPACE-LeetCode\MyTest\bin\Debug\netcoreapp3.1\MyTest.runtimeconfig.json
+F:\LE-WORKSPACE-LeetCode\MyTest\bin\Debug\netcoreapp3.1\MyTest.runtimeconfig.dev.json
+F:\LE-WORKSPACE-LeetCode\MyTest\bin\Debug\netcoreapp3.1\MyTest.dll
+F:\LE-WORKSPACE-LeetCode\MyTest\bin\Debug\netcoreapp3.1\MyTest.pdb
+F:\LE-WORKSPACE-LeetCode\MyTest\obj\Debug\netcoreapp3.1\MyTest.csprojAssemblyReference.cache
+F:\LE-WORKSPACE-LeetCode\MyTest\obj\Debug\netcoreapp3.1\MyTest.AssemblyInfoInputs.cache
+F:\LE-WORKSPACE-LeetCode\MyTest\obj\Debug\netcoreapp3.1\MyTest.AssemblyInfo.cs
+F:\LE-WORKSPACE-LeetCode\MyTest\obj\Debug\netcoreapp3.1\MyTest.csproj.CoreCompileInputs.cache
+F:\LE-WORKSPACE-LeetCode\MyTest\obj\Debug\netcoreapp3.1\MyTest.dll
+F:\LE-WORKSPACE-LeetCode\MyTest\obj\Debug\netcoreapp3.1\MyTest.pdb
+F:\LE-WORKSPACE-LeetCode\MyTest\obj\Debug\netcoreapp3.1\MyTest.genruntimeconfig.cache
